@@ -24,5 +24,7 @@ main (int argc, char *argv[])
         g_print ("Verbose mode\n");
     }
 
+    g_print ("Welcome to Autobase\n");
+
     return 0;
 }
